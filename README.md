@@ -5,15 +5,15 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- ✨ Hiring for various tech roles
 - :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- :calendar: Looking to connect with techies looking for work 
 
 #### Bio
 
 - 🏢 I'm currently working at **Beyond Search**
 - 🌍 I'm mostly active on LinkedIn and GitHub
-- 🌱 Would love to learn more about **DevOps, Cloud and Machine Learning**
+- 🌱 Would love to learn more about **DevOps, Cloud and AI/ML**
 - 💬 Ping me about **tech recruitment, career development and hiring trends**
 - 📫 Reach me: benn@beyondsearch.co
 
