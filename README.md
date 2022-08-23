@@ -12,7 +12,7 @@
 #### Bio
 
 - 🏢 I'm currently working at **Beyond Search**
-- 🌍 I'm mostly active on LinkedIn and GitHub
+- 🌍 I'm mostly active on **LinkedIn** and **GitHub**
 - 🌱 Would love to learn more about **DevOps, Cloud and AI/ML**
 - 💬 Ping me about **tech recruitment, career development and hiring trends**
 - 📫 Reach me: benn@beyondsearch.co
