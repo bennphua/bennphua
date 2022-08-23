@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Benn Phua</h1>
-<h3 align="center">A passionate tech recruiter from Singapore and Melbourne, Australia.</h3>
+## Hey 👋, I'm Benn!
+## A tech recruiter working in Singapore & Melbourne, Australia.
 
-- 🔭 I’m currently working at **Beyond Search**
 
-- 💬 Ask me about **tech recruitment, career development and hiring trends**
 
-- 📫 How to reach me **benn@beyondsearch.co**
+#### Now
+
+- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to python based open source projects 
+
+#### Bio
+
+- 🏢 I'm currently working at **Beyond Search**
+- 🌍 I'm mostly active on LinkedIn and GitHub
+- 🌱 Would love to learn more about **DevOps, Cloud and Machine Learning**
+- 💬 Ping me about **tech recruitment, career development and hiring trends**
+- 📫 Reach me: benn@beyondsearch.co
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
