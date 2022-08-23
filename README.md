@@ -5,16 +5,16 @@
 
 #### Now
 
-- ✨ Hiring for various tech roles
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking to connect with techies looking for work 
+- ✨ Hiring top talent for several tech roles
+- :fire: Interested in talent acquisition in the technology & internet industry
+- :calendar: Looking to connect with techies looking for new opportunities 
 
 #### Bio
 
 - 🏢 I'm currently working at **Beyond Search**
 - 🌍 I'm mostly active on **LinkedIn** and **GitHub**
-- 🌱 Would love to learn more about **DevOps, Cloud and AI/ML**
-- 💬 Ping me about **tech recruitment, career development and hiring trends**
+- 🌱 Would love to learn more about **DevOps, Cloud** and **cybersecurity**
+- 💬 Ping me about **tech recruitment, career development** and **hiring trends in APAC**
 - 📫 Reach me: benn@beyondsearch.co
 
 <h3 align="left">Connect with me:</h3>
