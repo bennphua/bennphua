@@ -1,6 +1,13 @@
 ## Hey 👋, I'm Benn! A tech recruiter working in Singapore & Melbourne, Australia.
 
+<p align="left">
 
+  <a href="https://github.com/bennphua?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  </a>
+  <a href="https://github.com/bennphua/">
+    <img src="https://komarev.com/ghpvc/?username=bennphua" alt="visitors" />
+  </a>
 
 #### Now
 
