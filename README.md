@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Benn!
-## A tech recruiter working in Singapore & Melbourne, Australia.
+A tech recruiter working in Singapore & Melbourne, Australia.
 
 
 
