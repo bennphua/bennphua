@@ -12,7 +12,7 @@
 #### Now
 
 - ✨ Hiring top talent for several tech roles
-- :fire: Interested to work with candidates in the technology & internet industry
+- :fire: Interested in the technology & internet industry
 - :calendar: Looking to connect with techies looking for new opportunities 
 
 #### Bio
