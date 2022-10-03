@@ -11,7 +11,7 @@
 
 #### Now
 
-- ✨ Hiring top talent for several tech roles
+- ✨ Hiring top talent for tech roles across all levels of experience
 - :fire: Interested in the technology & internet industry
 - :calendar: Looking to connect with techies looking for new opportunities 
 
@@ -19,7 +19,7 @@
 
 - 🏢 I'm currently working at **Beyond Search**
 - 🌍 I'm mostly active on **LinkedIn** and **GitHub**
-- 🌱 Would love to learn more about **DevOps, Cloud** and **cybersecurity**
+- 🌱 Would love to learn more about **DevOps, Cloud, ML/AI** and **cybersecurity**
 - 💬 Ping me about **tech recruitment, career development** and **hiring trends in APAC**
 - 📫 Reach me: benn@beyondsearch.co
 
